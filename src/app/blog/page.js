@@ -21,6 +21,12 @@ const dummyPosts = [
     description: 'Jumpstart your creativity with these quick and powerful prompts.',
     date: 'April 22, 2025',
   },
+  {
+    title: 'How Benita Changed My Life: A Journey of Love and Growth',
+    slug: 'benita-changed-my-life',
+    description: 'A heartfelt story of how love, resilience, and growth transformed my life.',
+    date: 'May 14, 2025',
+  },
 ];
 
 export default function BlogPage() {
